@@ -29,6 +29,18 @@ It supports **signal ingestion, incident lifecycle tracking, RCA enforcement, MT
 
 ---
 
+## 📸 Screenshots
+
+### 🚀 Dashboard UI
+![Dashboard](images/dashboard.png)
+
+---
+
+### ⚙️ API Documentation (Swagger)
+![Swagger](images/swagger.png)
+
+---
+
 ## ✨ Features
 
 * 📡 **Signal Ingestion API**
